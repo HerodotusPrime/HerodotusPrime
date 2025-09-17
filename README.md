@@ -8,7 +8,7 @@
 
 <!-- Add more video games later and fix the banner image -->
 
-Read Herodotus for his is a proud vocation that has long been the champion of democracy and the bane of tyranny.
+Read Herodotus for his is a proud vocation that has long been the champion of democracy and the bane of tyrants.
 
 <details>
 <summary>Best Video Games All Time </summary>
