@@ -6,7 +6,6 @@
 
 ## About me
 
-:new_zealand: born and raised (not really).
 3 :joy_cat:, 2 :dog2: and a passion for :computer:
 
 <!-- Add more video games later and fix the banner image -->
