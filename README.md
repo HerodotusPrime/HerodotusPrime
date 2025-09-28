@@ -7,7 +7,7 @@
 ## About me
 
 :flag_new_zealand: born and raised (not really).
-3 :joy_cat:, 2 :joy_dog: and a passion for :computer:
+3 :joy_cat:, 2 :dog: and a passion for :computer:
 
 <!-- Add more video games later and fix the banner image -->
 
