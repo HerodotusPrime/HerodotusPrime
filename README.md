@@ -12,6 +12,12 @@
 
 Read Herodotus for his is a noble vocation that has long been the champion of democracy and the bane of tyrants.
 
+## Learning
+
+[![roadmap.sh](https://roadmap.sh/card/wide/68e478361d72874d10b9e056?variant=dark&roadmaps=%2Chtml)](https://roadmap.sh)
+
+## Hobbies
+
 <details>
 <summary>Best Video Games All Time </summary>
 
@@ -27,6 +33,3 @@ Read Herodotus for his is a noble vocation that has long been the champion of de
 
 ---
 >Circumstances rule men; men do not rule circumstances — Herodotus
-
-<details>[![roadmap.sh](https://roadmap.sh/card/wide/68e478361d72874d10b9e056?variant=dark&roadmaps=%2Chtml)](https://roadmap.sh)</details>
-
