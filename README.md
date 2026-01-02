@@ -28,4 +28,5 @@ Read Herodotus for his is a noble vocation that has long been the champion of de
 ---
 >Circumstances rule men; men do not rule circumstances — Herodotus
 
-[![roadmap.sh](https://roadmap.sh/card/wide/68e478361d72874d10b9e056?variant=dark&roadmaps=%2Chtml)](https://roadmap.sh)
+<details>[![roadmap.sh](https://roadmap.sh/card/wide/68e478361d72874d10b9e056?variant=dark&roadmaps=%2Chtml)](https://roadmap.sh)</details>
+
